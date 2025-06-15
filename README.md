@@ -17,3 +17,5 @@ https://youtu.be/k5iEOhBXo-s //Proje 7 videosu
 Proje vize raporu 'rapor_vize.pdf' dosyasındadır.
 
 Proje final raporu 'rapor_final.pdf' dosyasındadır.
+
+Veritabanı .csv uzantılı dosya okunarak oluşturulmuştur. Bu veriseti küçük olduğundan koyala-yapıştır çoğaltılarak 2 milyon satır civarına çıkarılmıştır. Kullanılan veriseti kaggle sitesinden bulunmuştur ve 'lettuce_dataset.csv' dosyası olarak buraya yüklenmiştir.
